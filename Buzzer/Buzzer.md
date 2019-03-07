@@ -4,7 +4,7 @@
 本代码示例通过控制P4.6端口电平向无源蜂鸣器输出方波信号，并通过改变电平转换中延时的长度来改变蜂鸣器发出声音的频率
 
 * [源代码](/Buzzer/Buzzer.c)
-* [频率对照表](/Buzzer/Frequency_Table.xlsx)
+* [频率对照表](/Buzzer/Frequency_Table.md)
 
 ----
 版权声明：
