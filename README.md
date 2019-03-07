@@ -1,7 +1,7 @@
 # C51_demo
 ## [哈尔滨工业大学业余无线电俱乐部](www.by2hit.net)
 * 本代码示例适用于BY2HIT技术团队设计的 V4.0/V4.3 C51核心板及扩展板
-* [开发环境配置](/BY2HIT/books.by2hit.net/blob/source/C51MCU/C51MCU_开发环境配置.md)及[代码讲解](/BY2HIT/books.by2hit.net/blob/source/C51MCU/C51MCU_index.md)请参考团队相关文档
+* [开发环境配置](https://github.com/BY2HIT/books.by2hit.net/blob/source/C51MCU/C51MCU_%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE.md)及[代码讲解](https://github.com/BY2HIT/books.by2hit.net/blob/source/C51MCU/C51MCU_index.md)请参考团队相关文档
 
 
 版权声明：  
